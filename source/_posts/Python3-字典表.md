@@ -200,4 +200,4 @@ KeyError: 'e'
 dict_values([1, 2, 3])
 ```
 
-> 更多关于列表数据类型的内建函数方法，可在 Python 交互式环境下，使用：`help(dict)` 进行查看，或查阅官方文档：[Python 官方文档](https://docs.python.org/3/)。
+> 更多关于字典表数据类型的内建函数方法，可在 Python 交互式环境下，使用：`help(dict)` 进行查看，或查阅官方文档：[Python 官方文档](https://docs.python.org/3/)。

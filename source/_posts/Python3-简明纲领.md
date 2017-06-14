@@ -66,11 +66,12 @@ Python当前有很多版本，目前使用最多的可能是以下两个版本�
 4. {% post_link "Python3-列表" %}
 5. {% post_link "Python3-元组" %}
 6. {% post_link "Python3-字典表" %}
-7. {% post_link "Appium-Demo-下篇" "Python3 文件" %} 尚未更新
-8. {% post_link "Appium-Demo-下篇" "Python3 集合" %} 尚未更新
-9. {% post_link "Appium-Demo-下篇" "Python3 Boolean" %} 尚未更新
-10. {% post_link "Appium-Demo-下篇" "Python3 函数" %} 尚未更新
-11. {% post_link "Appium-Demo-下篇" "Python3 类" %} 尚未更新
+7. {% post_link "Python3-文件（上）" %}
+8. {% post_link "Python3-文件（下）" %}
+9. {% post_link "Appium-Demo-下篇" "Python3 集合" %} 尚未更新
+10. {% post_link "Appium-Demo-下篇" "Python3 Boolean" %} 尚未更新
+11. {% post_link "Appium-Demo-下篇" "Python3 函数" %} 尚未更新
+12. {% post_link "Appium-Demo-下篇" "Python3 类" %} 尚未更新
 
 ----
 
