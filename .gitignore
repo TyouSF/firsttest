@@ -101,5 +101,10 @@ ENV/
 .mypy_cache/
 
 # node
+.DS_Store
+Thumbs.db
+db.json
+*.log
 node_modules/
-*.db.json
+public/
+.deploy*/
